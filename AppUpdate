@@ -1,11 +1,11 @@
 {
 
 "apkUrl": "https://play.google.com/store/apps/details?id=denjienel.smith.alz",
-
+"versionName "1.14"
 "versionNotes":"
-•nasa playstore Ang pinaka latest•
--Fix Add Timer
--Fix Bug 
--Smooth Response
+add time is adjusted from 60 to 15 only and in the new update to the app. pwede na kayu mag add ng sarili nyong payload set up like bughost for sts noload pisowifi dtac truemove etc
+
+เวลาเพิ่มจะถูกปรับจาก 60 เป็น 15 เท่านั้นและในการอัปเดตแอปใหม่ pwede na kayu mag เพิ่ม ng sarili nyong payload ตั้งค่าเช่น bughost สำหรับ sts noload pisowifi dtac truemove ฯลฯ
+
 "
 }
