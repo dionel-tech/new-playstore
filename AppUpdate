@@ -1,7 +1,10 @@
 {
 
 "apkUrl": "https://play.google.com/store/apps/details?id=denjienel.smith.alz",
-
+"newVersion": "1.20",
 "versionNotes":"
-Fix ads add time"
+   - Fix ads add time
+   - 10 seconds add time 
+   - fix Android 5
+   - fix minor bug"
 }
