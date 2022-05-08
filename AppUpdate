@@ -1,7 +1,10 @@
 {
 
 "apkUrl": "https://play.google.com/store/apps/details?id=denjienel.smith.alz",
-
+"newVersion": "1.1.4",
 "versionNotes":"
- Fix all bug"
+ STS Noload Fix
+ Globe/TM Noload No IP Hunt Fix
+ PisoWifi NoHulog fix
+ One Tap connect Globe/TM Noload"
 }
